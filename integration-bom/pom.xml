@@ -55,7 +55,4 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-	<modules>
-		<module>test-module</module>
-	</modules>
 </project>
